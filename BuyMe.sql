@@ -35,7 +35,7 @@ CREATE TABLE `user` (
 
 LOCK TABLES `user` WRITE;
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
-INSERT INTO `user` VALUES ('admin','admin','Archit Bansal','admin@buyme.com');
+INSERT INTO `user` VALUES ('admin','admin','Ajinkya Phanse','admin@buyme.com');
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 UNLOCK TABLES;
 
